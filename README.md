@@ -29,7 +29,7 @@ Given the data points for three different currency pairs, analyze the trend of e
 
 2.	Determine which currency is the **worst performing currency** among the three currencies EUR, USD, JPY?
 
-Please provide explanation, these are not answer based questions. Explain your thought process. You are welcome to provide pseudo code and working code as well. All graphs are made to the scale for your reference purpose. Providing program shows your ablity to convert real life solution to computer understandable language.    
+Please provide explanation, these are not answer based questions. Explain your thought process. You are welcome to provide pseudo code and working code as well. All graphs are made to the scale for your reference purpose. Providing program shows your ability to convert real life solution to computer understandable language.    
 
 **HINT:** You can explore various statistical models. If you look at a graph, you can generally say if the graph is in up trend, down trend or no trend. Real life problem - How can you let computer know about the trend of the graph? Is there a universal model for all situations? Are there multiple model for each kind of situation?
 
